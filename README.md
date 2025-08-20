@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color: purple;">
-  9º Período de Engenharia da Computação, atualmente Dev Fullstack com ênfase em Front End.
+  10º Período de Engenharia da Computação, atualmente Dev Fullstack com ênfase em Front End.
 </h3>
 
 - Atualmente aprendendo: <b>React Js, NodeJs, NextJs, AWS</b>
