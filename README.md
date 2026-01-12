@@ -3,10 +3,8 @@
 </h1>
 
 <h3 align="center" style="color: purple;">
-  10º Período de Engenharia da Computação, atualmente Dev Fullstack com ênfase em Front End.
+  Desenvolvedor FullStack - Formado em Engenharia da Computação
 </h3>
-
-- Atualmente aprendendo: <b>React Js, NodeJs, NextJs, AWS</b>
 
 <h4 align="left">
   Entre em contato comigo:
